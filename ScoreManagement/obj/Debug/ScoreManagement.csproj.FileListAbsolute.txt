@@ -1,0 +1,10 @@
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.exe.config
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.exe
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\bin\Debug\ScoreManagement.pdb
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.csprojAssemblyReference.cache
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.Form1.resources
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.Properties.Resources.resources
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.csproj.GenerateResource.cache
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.exe
+C:\Users\VU PHAM\source\repos\ScoreManagement\ScoreManagement\obj\Debug\ScoreManagement.pdb
